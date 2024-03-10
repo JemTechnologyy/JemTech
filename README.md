@@ -1,1 +1,98 @@
-# JemTech
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JemTech</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-image: url('https://media.istockphoto.com/id/1430232403/photo/cybersecurity-data-protection-digital-technology-concept-internet-network-connection-icons.webp?b=1&s=170667a&w=0&k=20&c=tqmeYJ2ax4dRUZvV0ZnQlv6vz55fOvloQ-MHZrSEvwg='); 
+            background-size: cover;
+            background-position: center;
+        }
+    
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            background-color: #666;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+        .box {
+
+            background-color: #f0f0f0; /* Change to desired background color */
+            padding: 20px;
+            margin: 20px;
+            border-radius: 5px;
+            width: 10cm;
+        }
+    </style>
+</head>
+<body>
+    div class="content">
+    <div class="box">
+        <section>
+            <h2>What is JemTech?</h2>
+            <p>
+                JemTech represents the pinnacle of your technological exploration. At JemTech, we embody the ethos of innovation, knowledge, and empowerment in the realm of Information Technology (IT).
+
+                We are your premier destination for navigating the vast landscape of IT, where every click unveils a world of possibilities. Whether you're a seasoned IT professional seeking the latest advancements or a curious mind eager to delve into the digital frontier, JemTech is your trusted guide. </p><br>
+                
+            <p> Imagine a space where expertise converges with accessibility, where bytes of information ignite the spark of creativity, and where technology transcends mere tools to become transformative forces. This is the essence of JemTech.
+                
+                With our comprehensive resources, expert insights, and cutting-edge analysis, we cater to your every IT need. From deciphering complex algorithms to simplifying emerging technologies, we are committed to empowering you on your digital journey.
+            </p> 
+        </section>
+    </div>
+
+    <div class="box">
+        <section>
+            <h2>Contact Us</h2>
+            <p>
+                Have a question or need assistance? Drop us an email at jdmsulit@gmail.com. Our dedicated team of experts is ready to address your queries promptly and efficiently.
+            </p>
+            <br>
+            <p>
+                Stay updated with the latest trends, news, and events by following us on social media. Connect with us on Facebook, Instagram, and Discord for engaging content, discussions, and community interactions.
+            </p><br>
+            <p>
+                Prefer a more formal approach? Call 09163140291  and we'll ensure your query receives the attention it deserves.
+            </p> <br>
+            <p>
+                No matter how you choose to connect, rest assured that at JemTech, your satisfaction and engagement are our top priorities. We look forward to hearing from you!
+            </p>
+        </section>
+    </div>
+    <iframe src="https://embed.cody.bot/9b718c71-f834-4fc8-b8f4-04b87b63f16d" style="border:0px;" name="codyai" scrolling="no" frameborder="1" marginheight="0" marginwidth="0" height="800px" width="100%" allowfullscreen></iframe>
+</body>
+</html>
+
